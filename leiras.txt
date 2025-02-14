@@ -1,1 +1,6 @@
 Az "otoslotto.txt" nevű fájl tabulátorokkal tagolt, ahol soronként az első mező a sorsolás évét, a második mező azt, hogy az év hányadik sorsolása az aktuális sor, a harmadik mező a sorsolás dátumát, a negyedik mező a telitalálatos szelvények számát, az ötödik mező egy telitalálatos szelvény nyereményét, a hatodik mező a négytalálatos szelvények számát, a hetedik mező egy négy találatos szelvény nyereményét, a nyolcadik mező a három találatos szelvények számát, a kilencedik mező egy három találatos szelvény nyereményét, a tizedik mező a kettő találatos szelvények számát és a tizenegyedik mező egy kettő találatos szelvény nyereményét tartalmazza. A tizenkettedik mezőtől a tizenhatodik mezőig a sorsolt nyerőszámok vannak növekvő sorrendben.
+
+Példa egy sorra:
+2024	47	2024.11.23	0	0	20	2347585	2235	22115	67341	2825	13	23	40	68	87
+
+Ez a sor azt jelenti, hogy a húzás 2024-ben, az év 47. hetében történt, ekkor a dátum: 2024.11.23. A sorsolás során nem lett telitalátos szelvény (0 db 5 találatos szelvény). 20 db 4 találatos szelvény volt, fejenként a nyeremény 2 347 585 Ft volt. 2235 db 3 találatos szelvény volt, aminek a fejenkénti nyereménye 22 115 Ft volt. 2 találatos szelvényből 67341 db lett és ezek darabja 2 825 Ft-ot fizetett a nyerteseknek. A nyerőszámok pedig a következők lettek: 13	23	40	68	87
